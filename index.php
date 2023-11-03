@@ -1,7 +1,7 @@
 <?php
-echo 'Hello World';
+$alterado = 'Hello World';
 
-
+echo $alterado;
 
 
 ?>
